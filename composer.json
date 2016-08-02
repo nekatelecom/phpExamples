@@ -1,0 +1,6 @@
+{
+    "require": {
+        "neka/restclient" : "dev-master",
+        "nategood/httpful": "*"
+    }
+}
