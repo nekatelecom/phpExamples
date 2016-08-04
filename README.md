@@ -10,4 +10,4 @@ composer install
 
 یا دانلود به صورت مستقیم از لینک زیر
 >>
-https://github.com/nekatelecom/phpExamples/releases/download/v0.0.1/phpExamples.zip
+https://github.com/nekatelecom/phpExamples/releases/download/v0.2.1/phpExamples.zip
