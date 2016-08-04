@@ -2,7 +2,8 @@
     require './config.php';
     require './vendor/autoload.php';
     use Neka\AuthenticationTest;
-    if(AuthenticationTest::test() == true){
+	$test = AuthenticationTest::test();
+    if(isset($test['status']) AND $test['status'] == true){
       echo 'Authentication Ok! :)';
     }else{
       echo 'Authentication Failed! :( ';
