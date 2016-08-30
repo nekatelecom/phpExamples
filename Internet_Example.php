@@ -3,4 +3,4 @@
     require './vendor/autoload.php';
     use Neka\Topup;
 
-    var_dump(Topup::buy_request('09386510576',175000,'Ir',null,null,false,33)); // InternetPackage Code IS:33
+    var_dump(Topup::buy_request('093500...',175000,'Ir',null,null,false,"33,1")); // برای مثال خرید بسته با کد33 برای سیمکارت اعتباری ایرانسل
